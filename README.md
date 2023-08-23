@@ -17,3 +17,6 @@ You can find the details of splitting of images in this folder.
 ### Using ResNet-50 Pretrained Model and train the existing weights we just have to train our last layer.
 ### Augment the data, train the model and plot the result.
 ### Finally, predict the class of new image using the saved model.
+
+
+Video of the project : https://youtu.be/Ed17i1ACoVI
